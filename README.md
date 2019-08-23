@@ -1,4 +1,3 @@
-Getting Started with OpenShift Sample Application
+Lab 1 -  Dojo de Modernizacion de aplicaciones, sección: Openshift
 ====================
 
-This is a sample application for the book, Getting Started with OpenShift
